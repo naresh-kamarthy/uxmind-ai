@@ -7,11 +7,16 @@ UXMind is a next-generation developer tooling ecosystem designed to serve as an 
 Our mission is to democratize elite-level user experience design. We automate the arduous UX auditing process by integrating Gemini-driven visual analysis, allowing engineering and design teams to identify accessibility flaws, visual hierarchy issues, and structural inconsistencies instantly, resulting in superior product quality with a fraction of the manual effort.
 
 ## 3. Live Status Badges
-![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Gemini 3 Flash](https://img.shields.io/badge/Gemini%203-Flash-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![Tailwind 4](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
+![TS Strict](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind 4](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Gemini 3 Flash](https://img.shields.io/badge/Gemini%203-Flash-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AI-Powered](https://img.shields.io/badge/AI--Powered-UX%20Audit-blueviolet?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![jsPDF](https://img.shields.io/badge/jsPDF-Integration-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Vitest Coverage](https://img.shields.io/badge/Coverage-100%25-449124?style=for-the-badge&logo=vitest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 4. Visual Proof Gallery
 *High-fidelity screenshots of the UXMind interface, demonstrating the 0-100 score gauge and detailed issue overlays.*
